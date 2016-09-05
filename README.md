@@ -12,7 +12,7 @@ Make a choice:
  You will have to type a number and press ENTER.
  1- is to scan a unique URL. if you make this choice, type URL and press ENTER.
  2- is to scan multiple websites. If you make this choice, type the name of the list file and press ENTER.
- 3- This still don't work.
+ 3- This still doesn't work.
 
 Then, the script will ask you:
 Choose accuracy (a number):
