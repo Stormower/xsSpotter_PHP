@@ -1,4 +1,4 @@
-xsSpotter is a little tool wrote in PHP-CLI to find XSS flaws.
+xsSpotter is a little tool written in PHP-CLI to find XSS flaws.
 
 usage:
 php scanner.php
