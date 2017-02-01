@@ -1,1 +1,1 @@
-#Project discontinued... will be rewritten in C#
+#Project discontinued... will be rewritten in .net
